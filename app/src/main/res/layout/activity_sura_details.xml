@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".quran.SuraDetailsActivity"
+    android:orientation="vertical"
+
+    android:gravity="center">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:gravity="center">
+
+            <TextView
+                android:background="#000"
+                android:textColor="#fff"
+                android:id="@+id/suraNameId_DetailsActivity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="একা তারাবীহ নামাজ পড়ার নিয়তঃ"
+                android:textStyle="bold"
+                android:textSize="35sp"
+                android:layout_marginBottom="10dp"
+                android:textAppearance="@style/TextAppearance.AppCompat.Large"/>
+
+            <TextView
+
+                android:paddingHorizontal="10dp"
+                android:id="@+id/suraDetails_DetailsActivity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="30sp"
+                android:text="نويت ان اصلى لله تعالى ركعتى صلوة التراويح"
+                android:textStyle="bold"
+                />
+
+
+
+            </LinearLayout>
+
+    </ScrollView>
+
+
+
+
+
+
+
+
+
+
+</LinearLayout>

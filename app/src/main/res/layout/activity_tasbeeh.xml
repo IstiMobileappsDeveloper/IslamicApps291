@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TasbeehActivity">
+
+
+
+    <Button
+        android:paddingBottom="20dp"
+        android:background="@drawable/tasbeeh_icon"
+        android:textSize="50dp"
+        android:text="0"
+        android:textColor="#000"
+        android:id="@+id/countId"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"/>
+
+    <Button
+
+        android:id="@+id/resetId"
+        android:layout_below="@id/countId"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="RESET"
+        android:textSize="25dp"
+        />
+
+</RelativeLayout>

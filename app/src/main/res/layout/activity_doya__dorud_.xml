@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Doya_Dorud_Activity">
+
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:gravity="center">
+
+            <TextView
+                android:background="#000"
+                android:textColor="#fff"
+                android:id="@+id/doya_durud_Tv"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:text="০১.ঔষধ হাতে নিয়ে দোয়া"
+
+                android:layout_marginBottom="10dp"
+                android:textAppearance="@style/TextAppearance.AppCompat.Large"/>
+
+            <TextView
+                android:paddingHorizontal="10dp"
+                android:id="@+id/doya_durud_details_Tv"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+
+                android:text="শুধুমাএ এক চিমটি খাক–এ–শিফা মুখে খাওয়ার আগে নিন্ম দোয়াটি পড়তে হবে:
+“বিসমিল্লাহির রাহমানির রাহিম আল্লাহুম্মা ইন্নি আসআলোকা বেহাক্কিল মাল আকেল লাযি কাবযাহা ওয়া আসালোকা বেহাক্কিন নাবীইল লাযি খাযানাহা ওয়া আসালোকা বেহাক্কিল ওয়াসি ইললাযি হাল্লাফিহা আনতো সাল্লি আলা মোহাম্মাদমাদিন ওয়া আনতায আলি হাশিফা আমমিন কুল্লেদা–ইন ওয়া আমানা মমিন কুল্লেসু–ইন।”"
+
+                />
+
+
+
+            <TextView
+                android:background="#000"
+                android:textColor="#fff"
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:text="০২. নতুন ঘর/বাড়ী তৈরীর সময় "
+
+                android:layout_marginBottom="10dp"
+                android:textAppearance="@style/TextAppearance.AppCompat.Large"/>
+
+            <TextView
+                android:paddingHorizontal="10dp"
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+
+              android:text="হযরত মোহাম্মাদ (সাঃ) বলেছেন যে কেউ যখন নতুন ঘর/বাড়ী তৈরীর সময় অবশ্যই যেন একটিস্ বাস্থ্য সবল ভেড়া কোরবানী দেয় এবং মাংস গরীব/এতিম বন্টন করে এবং নিন্ মদোয়াটি পড়তে হবে:
+“বিসমিল্লাহির রাহমানির রাহিম আল্লাহুম্মার হাম ইন্নি মারা দাতাল জিন্নে ওয়াল ইনসে ওয়াস ইয়াতিনা ওয়া বারিক লি ফি বে–না–ই।”"
+
+                />
+
+
+            <TextView
+                android:background="#000"
+                android:textColor="#fff"
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:text="০৩. প্রয়োজনীয় কাজে ঘর থেকে বের হবার দোয়া  "
+
+                android:layout_marginBottom="10dp"
+                android:textAppearance="@style/TextAppearance.AppCompat.Large"/>
+
+            <TextView
+                android:paddingHorizontal="10dp"
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+
+                android:text="ইমাম আলী আঃ থেকে বর্ণিত যখন কোন ব্যক্তি ঘরে প্রবেশ করে সে অবশ্যই যন পড়ে “আস সালামু আলাইনা মিনা রাব্বেনা”। যখন সে ঘরে থাকবে সে যাতে অবশ্যই সুরা তাওহীদ পড়ে এতে দারিদ্র ও সমস্যা থেকে রক্ষা করবে। এবং যখন সে প্রয়োজনীয় কাজে ঘর থেকে বের হবে তখন যেন সুরা ফাতেহা, আয়াতুল কুরসী, সুরা কদ্বর ও সুরা আলে ইমরানে নিম্ন আয়াতটি পড়ে:
+“বিসমিল্লাহির রাহমানির রাহিম ইন্না ফি খালকেস সামাওয়াতে ওয়াল আরযে ওয়াক তেলাফিল লাইলে ওয়ান নাহারে লা আয়াতিল লে–উ–লিল আলাবাবা।
+আল লাযি না ইয়ায কুরুনাল লাহা কেয়ামাওঁ ওয়ালা জুনুবেহিম ওয়া ইয়াতা ফাক্কা রুনা ফি খালকিস সামাওয়াতে ওয়াল আরযে রাব্বেনা মা খালাক্তা হাযা বে তালা সুবহানাকা ফি কীনা আযাবান নার।
+রাব্বেনা ইন্নাকা মান তুদ খেলীন নারা ফাক্বাদ আখযায়তাহো ওয়ামা লিয যালেমিনা মিন আনসার।
+রাব্বেনা ইন্নানা সামেয়ানা মোনাদিয়ান ইয়ো নাদি লিল ঈমানে আন আমেনো বে রাব্বেকুম ফা আমান্না রাব্বানা ফাগ ফির লানা যুনোবানা ওয়া কাফ্ফীর আন্না সাইয়েতেনা ওয়া তাওয়াফ ফানা মা–আল আবরার রাব্বানা আতেনা মা–ওয়া আদনা আলা রাসূলেকা ওয়ালা তোখযেনা ইউমাল ক্বেয়ামা ইন্নাকা লা তোখলেফোল মেয়াদ।”"
+
+                />
+
+
+
+            <TextView
+                android:background="#000"
+                android:textColor="#fff"
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:text="০৪. পার্থিব ও আধ্যাতিক কাজে ঘর থেকে বের হবার দোয়া"
+
+                android:layout_marginBottom="10dp"
+                android:textAppearance="@style/TextAppearance.AppCompat.Large"/>
+
+            <TextView
+                android:paddingHorizontal="10dp"
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+
+               android:text="ইমাম মোহাম্মাদ বাকের আঃ থেকে বর্ণিত: যখন কোন ব্যক্তি পার্থিব বা আধ্যাতিক কাজে ঘর থেকে বের হবার  জন্য নিম্ন লিখিত দোয়া পড়বে আল্লাহ কল্যান সাধিত করবেন।
+“বিসমিল্লাহির রাহমানির রাহিম বিসমিল্লাহে হাসবিয়াল লাহো তাওয়াক কালতো আলাল লাহে আল্লাহোম্মা আস–আলোকা  খায়রা উমোরি কোললেহা ওয়া আ–উযো বেকা মিন খিয উয়িদ দুনইয়া ওয়া আযাবিল আখেরাহ্।"
+
+                />
+
+
+
+            <TextView
+                android:background="#000"
+                android:textColor="#fff"
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:text="০৫. আংটি পরার সময় দোয়া "
+
+                android:layout_marginBottom="10dp"
+                android:textAppearance="@style/TextAppearance.AppCompat.Large"/>
+
+            <TextView
+                android:paddingHorizontal="10dp"
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+
+                android:text="হযরত জাফর স্বাদিক আঃ থেকে বর্নিত আংটি পরার সময় নিম্ন লিখিত দোয়া পড়িতে হবে
+“বিসমিল্লাহির রাহমানির রাহিম আল্লাহুম্মা সাউমনি বেসিমা–ইল ঈমানে ওয়াখ তিমলি বেখাইরেন ওয়ায আল আ কে বাতি ইলা খাইরিন ইন্নাকা আনতাল আযিযুল হাকিমুল কারিম”"
+
+                />
+
+
+            <TextView
+                android:background="#000"
+                android:textColor="#fff"
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:text="০৬. কেয়ামতে পুরষ্কৃত হবার দোয়া  "
+
+                android:layout_marginBottom="10dp"
+                android:textAppearance="@style/TextAppearance.AppCompat.Large"/>
+
+            <TextView
+                android:paddingHorizontal="10dp"
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+
+               android:text="ইমাম মোহাম্মাদ বাকের আঃ থেকে বর্নিত কেয়ামতে পুরষ্কৃত হবার দোয়া“বিসমিল্লাহির রাহমানির রাহিম সুবহানা রাববেকা রাব্বিল ইযযাতে আম্মা ইয়াসি ফুন ওয়া সালামুন আলাল মুরসালিন ওয়াল হামদো লিললিহে রাব্বিল আলামিন”"
+
+                />
+
+
+            <TextView
+                android:background="#000"
+                android:textColor="#fff"
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:text="০৫. আংটি পরার সময় দোয়া "
+
+                android:layout_marginBottom="10dp"
+                android:textAppearance="@style/TextAppearance.AppCompat.Large"/>
+
+            <TextView
+                android:paddingHorizontal="10dp"
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+
+                android:text="হযরত জাফর স্বাদিক আঃ থেকে বর্নিত আংটি পরার সময় নিম্ন লিখিত দোয়া পড়িতে হবে
+“বিসমিল্লাহির রাহমানির রাহিম আল্লাহুম্মা সাউমনি বেসিমা–ইল ঈমানে ওয়াখ তিমলি বেখাইরেন ওয়ায আল আ কে বাতি ইলা খাইরিন ইন্নাকা আনতাল আযিযুল হাকিমুল কারিম”"
+
+                />
+
+
+            <TextView
+                android:background="#000"
+                android:textColor="#fff"
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:text="০৫. আংটি পরার সময় দোয়া "
+
+                android:layout_marginBottom="10dp"
+                android:textAppearance="@style/TextAppearance.AppCompat.Large"/>
+
+            <TextView
+                android:paddingHorizontal="10dp"
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+
+                android:text="হযরত জাফর স্বাদিক আঃ থেকে বর্নিত আংটি পরার সময় নিম্ন লিখিত দোয়া পড়িতে হবে
+“বিসমিল্লাহির রাহমানির রাহিম আল্লাহুম্মা সাউমনি বেসিমা–ইল ঈমানে ওয়াখ তিমলি বেখাইরেন ওয়ায আল আ কে বাতি ইলা খাইরিন ইন্নাকা আনতাল আযিযুল হাকিমুল কারিম”"
+
+                />
+
+
+            <TextView
+                android:background="#000"
+                android:textColor="#fff"
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:text="০৫. আংটি পরার সময় দোয়া "
+
+                android:layout_marginBottom="10dp"
+                android:textAppearance="@style/TextAppearance.AppCompat.Large"/>
+
+            <TextView
+                android:paddingHorizontal="10dp"
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#000"
+
+                android:text="হযরত জাফর স্বাদিক আঃ থেকে বর্নিত আংটি পরার সময় নিম্ন লিখিত দোয়া পড়িতে হবে
+“বিসমিল্লাহির রাহমানির রাহিম আল্লাহুম্মা সাউমনি বেসিমা–ইল ঈমানে ওয়াখ তিমলি বেখাইরেন ওয়ায আল আ কে বাতি ইলা খাইরিন ইন্নাকা আনতাল আযিযুল হাকিমুল কারিম”"
+
+                />
+
+
+
+
+        </LinearLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+    </ScrollView>
+
+</LinearLayout>
